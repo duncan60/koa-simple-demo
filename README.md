@@ -1,2 +1,2 @@
-# koa-sample-demo
+# koa-simple-demo
 practice koa2
